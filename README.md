@@ -9,7 +9,7 @@ This is an open source libreoffice based character sheet for the Pathfinder role
 <span style="background-color:#baffd9">Cells in Green</span> are data entry points for formulas and need to be filled in by the user for the formulas to work.  
 <span style="background-color:#ccccff">Cells in Blue</span> are the results of formulas and should not be changed unless you wish to change the formula
  <p>
-    This sheet was writting in <a href="https://www.libreoffice.org/">Libreoffice</a> and that is the only supported format. It will work with degraded features in openoffice and excel.
+    This sheet was writen in <a href="https://www.libreoffice.org/">Libreoffice</a> and that is the only supported format. It will work with degraded features in openoffice and excel.
     <p>
     When you get the this file most of the extra class sheets will be hidden.
     <p>
